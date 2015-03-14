@@ -1,0 +1,1 @@
+MySQL script that generates another script that, once executed, will store an automated historic of the database
